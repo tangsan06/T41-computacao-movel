@@ -35,3 +35,4 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 + [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 + [Filipi Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 + [TechZone](https://www.youtube.com/channel/UCazlSPqeYlqRYynASgCRYRg)
++ [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg)
